@@ -38,4 +38,4 @@ jobs:
       - name: Create preview (QR will be posted to the PR)
         uses: expo/expo-github-action/preview@v8
         with:
-          command: eas update --auto
+          command: eas update --channel preview --message "${{ github.event.pull_request.title }}"
