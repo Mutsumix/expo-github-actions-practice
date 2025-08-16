@@ -1,5 +1,6 @@
 {
   "name": "expo-github-actions-practice",
+  "displayName": "数字書き取り練習",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +11,13 @@
   },
   "dependencies": {
     "expo": "~53.0.20",
+    "expo-haptics": "^14.1.4",
     "expo-status-bar": "~2.2.3",
+    "expo-updates": "~0.28.17",
     "react": "19.0.0",
     "react-native": "0.79.5",
-    "expo-updates": "~0.28.17"
+    "react-native-gesture-handler": "^2.28.0",
+    "react-native-svg": "^15.12.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

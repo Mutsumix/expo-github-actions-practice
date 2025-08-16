@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "expo-github-actions-practice",
+    "name": "数字書き取り練習",
     "slug": "expo-github-actions-practice",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
