@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "数字書き取り練習",
-    "slug": "number-writing-practice",
+    "slug": "expo-github-actions-practice",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
