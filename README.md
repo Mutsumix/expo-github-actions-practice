@@ -1,1 +1,0 @@
-# expo-github-actions-practice
